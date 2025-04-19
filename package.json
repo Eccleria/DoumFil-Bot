@@ -2,8 +2,9 @@
     "name": "doumfilbot",
     "version": "0.0.1",
     "author": "Eccleria",
+    "type": "module",
     "devDependencies": {
-        "eslint": "^9.24.0",
+        "eslint": "^9.25.0",
         "prettier": "^3.5.3"
     },
     "dependencies": {
